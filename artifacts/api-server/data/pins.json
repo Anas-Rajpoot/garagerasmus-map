@@ -1,0 +1,407 @@
+[
+  {
+    "id": "kuleuven",
+    "name": "University of Pisa",
+    "type": "university",
+    "description": "A historic Italian university known for strong research, innovation, and excellence in science, engineering, and humanities.",
+    "website": "https://www.unipi.it/",
+    "longitude": 10.965219180246558,
+    "latitude": 43.74143981427506
+  },
+  {
+    "id": "polimi",
+    "name": "Università Suor Orsola Benincasa",
+    "type": "university",
+    "description": "A historic Italian university known for humanities, education, and social sciences with a strong cultural and academic tradition.",
+    "website": "https://www.unisob.na.it/",
+    "longitude": 15.703071058379713,
+    "latitude": 40.109316818549104
+  },
+  {
+    "id": "bocconi",
+    "name": "Università di Pavia",
+    "type": "university",
+    "description": "One of Italy’s oldest universities, known for academic excellence, research tradition, and a strong international community.",
+    "website": "https://www.unipv.it/",
+    "longitude": 8.051175918994375,
+    "latitude": 45.62211326419751
+  },
+  {
+    "id": "sapienza",
+    "name": "LABA Brescia",
+    "type": "university",
+    "description": "A creative Italian academy focused on design, arts, and innovative visual education within an international environment.",
+    "website": "https://www.laba.edu/",
+    "longitude": 10.813098991340164,
+    "latitude": 46.513736477583414
+  },
+  {
+    "id": "unipd",
+    "name": "Humanitas Medical University",
+    "type": "university",
+    "description": "A leading medical university focused on clinical training, research, and innovation in healthcare education.",
+    "website": "https://www.hunimed.eu/",
+    "longitude": 9.489837010081498,
+    "latitude": 46.15675899826702
+  },
+  {
+    "id": "bucharest",
+    "name": "Roma 2 Tor Vergata",
+    "type": "university",
+    "description": "A major Italian university known for strong research, international programs, and excellence in science, economics, and medicine.",
+    "website": "https://web.uniroma2.it/",
+    "longitude": 14.421129735819003,
+    "latitude": 40.60779937397913
+  },
+  {
+    "id": "kiev",
+    "name": "University of Poltava",
+    "type": "university",
+    "description": "A Ukrainian university known for economics, trade, and applied sciences with a focus on practical and international education.",
+    "website": "https://www.puet.edu.ua/",
+    "longitude": 33.46209349712643,
+    "latitude": 48.209687050548325
+  },
+  {
+    "id": "barcelona-ub",
+    "name": "Universidad Del Pais Vasco",
+    "type": "university",
+    "description": "A major public university known for strong research, innovation, and a vibrant international academic community.",
+    "website": "https://www.ehu.eus/",
+    "longitude": -2.7794383839921997,
+    "latitude": 42.37263187187926
+  },
+  {
+    "id": "sofia",
+    "name": "Università di Trento",
+    "type": "university",
+    "description": "A modern Italian university recognized for high-quality research, innovation, and a strong international learning environment.",
+    "website": "https://www.unitn.it/",
+    "longitude": 12.871220743107058,
+    "latitude": 47.54262811192629
+  },
+  {
+    "id": "belgrade",
+    "name": "University of Siena",
+    "type": "university",
+    "description": "One of Italy’s oldest universities, renowned for its excellence in research, medicine, and humanities within a historic academic setting",
+    "website": "https://www.unisi.it/",
+    "longitude": 13.41919888797047,
+    "latitude": 41.03975354914262
+  },
+  {
+    "id": "zagreb",
+    "name": "CVUT Czech Technical University in Prague",
+    "type": "university",
+    "description": "A top technical university known for engineering excellence, innovation, and strong international academic collaboration.",
+    "website": "https://www.cvut.cz/",
+    "longitude": 15.082426933688152,
+    "latitude": 50.514280068010216
+  },
+  {
+    "id": "vilnius",
+    "name": "Riga Stradins University",
+    "type": "university",
+    "description": "A leading health sciences university known for international programs and strong focus on medical research and education.",
+    "website": "https://www.rsu.lv/",
+    "longitude": 25.520575754762778,
+    "latitude": 55.10636535520398
+  },
+  {
+    "id": "amsterdam",
+    "name": "Università Ca' Foscari",
+    "type": "university",
+    "description": "A renowned Italian university specializing in humanities, economics, and languages with a strong international outlook.",
+    "website": "https://www.unive.it/",
+    "longitude": 12.023749701703343,
+    "latitude": 44.16617340422465
+  },
+  {
+    "id": "lisbon",
+    "name": "University of Malaga",
+    "type": "university",
+    "description": "A leading Spanish university known for innovation, research, and strong international student programs.",
+    "website": "https://www.uma.es/",
+    "longitude": -3.905320221291879,
+    "latitude": 37.17469363497306
+  },
+  {
+    "id": "ge4-brussels",
+    "name": "gE4Bari",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 17.441786478959393,
+    "latitude": 40.7278477871777
+  },
+  {
+    "id": "ge4-milan",
+    "name": "gE4Amsterdam",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 5.8174877689534235,
+    "latitude": 51.981147731343746
+  },
+  {
+    "id": "ge4-rome",
+    "name": "gE4Budapest",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 20.06917761530418,
+    "latitude": 47.25831227307431
+  },
+  {
+    "id": "ge4-berlin",
+    "name": "gE4Brussels",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 4.816551880014423,
+    "latitude": 50.03590925553202
+  },
+  {
+    "id": "ge4-barcelona",
+    "name": "gE4Kaunas",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 24.625553733526523,
+    "latitude": 51.82882745107651
+  },
+  {
+    "id": "ge4-madrid",
+    "name": "gE4Leipzig",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 10.644693114078764,
+    "latitude": 51.203422166322355
+  },
+  {
+    "id": "ge4-paris",
+    "name": "gE4Ancona",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 14.672050787393987,
+    "latitude": 41.70781671689537
+  },
+  {
+    "id": "ge4-warsaw",
+    "name": "gE4Brussels",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 3.1870813050943405,
+    "latitude": 48.61922452036707
+  },
+  {
+    "id": "ge4-budapest",
+    "name": "gE4Istanbul",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 29.62315820626616,
+    "latitude": 40.65254737819049
+  },
+  {
+    "id": "ge4-athens",
+    "name": "gE4Ourense",
+    "type": "ge4city",
+    "description": "",
+    "longitude": -7.2438887942195676,
+    "latitude": 42.613839874168214
+  },
+  {
+    "id": "ge4-lisbon",
+    "name": "gE4Milano&Lombardia",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 10.870573739160116,
+    "latitude": 45.519254219565184
+  },
+  {
+    "id": "ge4-istanbul",
+    "name": "gE4Malaga",
+    "type": "ge4city",
+    "description": "",
+    "longitude": -2.424843099182096,
+    "latitude": 37.65269712673603
+  },
+  {
+    "id": "ge4-bucharest",
+    "name": "gE4Valencia",
+    "type": "ge4city",
+    "description": "",
+    "longitude": -0.28328851934497035,
+    "latitude": 40.985522241258266
+  },
+  {
+    "id": "ge4-zagreb",
+    "name": "gE4Nantes",
+    "type": "ge4city",
+    "description": "",
+    "longitude": -1.161967411432495,
+    "latitude": 48.164664274049514
+  },
+  {
+    "id": "ge4-sofia",
+    "name": "gE4Bologna",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 13.488957300593908,
+    "latitude": 42.56949848323584
+  },
+  {
+    "id": "ge4-amsterdam",
+    "name": "gE4 Tallinn",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 26.42713755595754,
+    "latitude": 58.094921505263926
+  },
+  {
+    "id": "ge4-valencia",
+    "name": "gE4Verona",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 12.251720398205032,
+    "latitude": 45.38783313705209
+  },
+  {
+    "id": "ge4-granada",
+    "name": "gE4Tuscany",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 12.136064244982208,
+    "latitude": 42.85519147120668
+  },
+  {
+    "id": "ge4-bologna",
+    "name": "gE4Lisbon",
+    "type": "ge4city",
+    "description": "",
+    "longitude": -8.310301763051829,
+    "latitude": 38.60960861483494
+  },
+  {
+    "id": "ge4-florence",
+    "name": "gE4Nitra",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 18.963132036818564,
+    "latitude": 48.79741758058265
+  },
+  {
+    "id": "ge4-padova",
+    "name": "gE4Cordoba",
+    "type": "ge4city",
+    "description": "",
+    "longitude": -5.296509104205341,
+    "latitude": 37.413660106141066
+  },
+  {
+    "id": "ge4-vilnius",
+    "name": "gE4Silesia",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 20.397926177619507,
+    "latitude": 50.21720497382695
+  },
+  {
+    "id": "ge4-tallinn",
+    "name": "gE4Torino",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 9.584424527084227,
+    "latitude": 44.71075289433012
+  },
+  {
+    "id": "ge4-lyon",
+    "name": "gE4Paris",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 1.239248377973737,
+    "latitude": 46.65531880144134
+  },
+  {
+    "id": "ge4-prague",
+    "name": "gE4Mainz",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 8.137766915739451,
+    "latitude": 49.11229473133671
+  },
+  {
+    "id": "ge4-krakow",
+    "name": "gE4Bratislava",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 17.19354197068969,
+    "latitude": 48.37354544488101
+  },
+  {
+    "id": "ge4-armenia",
+    "name": "gE4Varna",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 27.65236725609719,
+    "latitude": 41.97092712200811,
+    "panel": "armenia"
+  },
+  {
+    "id": "ge4-colombia",
+    "name": "gE4Bogota",
+    "type": "ge4city",
+    "description": "gE4Bogota is the garagErasmus chapter in Colombia's capital, connecting students to the garagErasmus global network in Latin America.",
+    "longitude": -74.07,
+    "latitude": 4.71,
+    "panel": "colombia"
+  },
+  {
+    "id": "ge4-georgia",
+    "name": "gE4Bucharest",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 26.799206022525603,
+    "latitude": 43.750293754900966,
+    "panel": "georgia"
+  },
+  {
+    "id": "univ-armenia",
+    "name": "Yerevan State University",
+    "type": "university",
+    "description": "Yerevan State University is the main university of Armenia and a garagErasmus partner institution in the South Caucasus region.",
+    "website": "https://www.ysu.am",
+    "longitude": 25.7330053790088,
+    "latitude": 46.868754412881046,
+    "panel": "armenia"
+  },
+  {
+    "id": "univ-georgia",
+    "name": "University of Craiova",
+    "type": "university",
+    "description": "A well-established Romanian university known for its diverse academic programs, research activity, and growing international community.",
+    "website": "https://www.ucv.ro/",
+    "longitude": 25.217314744459866,
+    "latitude": 44.38734346801922,
+    "panel": "georgia"
+  },
+  {
+    "id": "pin-1777442925953",
+    "name": "gE4Athens",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 22.968073165602394,
+    "latitude": 38.17815817402345
+  },
+  {
+    "id": "pin-1777442947433",
+    "name": "gE4Malta",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 15.014726760998284,
+    "latitude": 36.74989417837433
+  },
+  {
+    "id": "pin-1777443004817",
+    "name": "gE4Sebenik",
+    "type": "ge4city",
+    "description": "",
+    "longitude": 15.796931547184029,
+    "latitude": 44.55571199705444
+  }
+]
